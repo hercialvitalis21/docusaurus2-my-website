@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+id: doc2
+title: Tutorial Intro
+sidebar_position: 2
 ---
 
 # Tutorial Intro

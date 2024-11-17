@@ -102,7 +102,15 @@ const config: Config = {
           position: 'right',
         },
       ],
+      
     },
+    plugins: [
+      '@docusaurus/plugin-content-blog',
+      '@docusaurus/plugin-content-pages',
+    ],
+    themes: ['@docusaurus/theme-classic'],
+  
+
     footer: {
       style: 'dark',
       links: [

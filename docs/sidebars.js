@@ -8,5 +8,10 @@ export default {
         label: 'Tutorial',
         items: ['tutorial-basics/create-a-document'],
       },
+      {
+        type: 'category',
+        label: 'Tutorial',
+        items: ['tutorial-extras'],
+      }
     ],
   };
